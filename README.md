@@ -22,7 +22,7 @@ This project focuses on clean design, smooth animations, and mobile-first respon
 ---
 
 ## 🌐 Live Demo
-[**View the Live Site**](https://Vashitva1356.github.io/animated-product-landing-page/)
+[**View the Live Site**]( https://vashitva1356.github.io/animated-product-landing-page/)
 
 ---
 
